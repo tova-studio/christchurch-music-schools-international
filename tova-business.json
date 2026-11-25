@@ -1,0 +1,67 @@
+{
+  "schema": 1,
+  "source": "tova-explore",
+  "generatedAt": "2026-11-25T07:56:38.464Z",
+  "slug": "msichristchurch",
+  "name": "Christchurch Music Schools International",
+  "city": "Christchurch",
+  "industry": {
+    "label": "Music & dance schools",
+    "niche": "music & dance schools",
+    "group": "Fitness & education"
+  },
+  "contact": {
+    "phone": "+64275058818",
+    "email": "enquire@msichristchurch.co.nz",
+    "address": "50 Bolton Ave, Christchurch"
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/1636397970015465"
+  },
+  "about": {
+    "overview": "Rosalind was awarded a Music Scholarship at the Conservatorium of Music-Sydney after studying Music throughout her school years. She also achieved qualifications from the Royal Academy of Music, London while teaching in the UK. Throughout her career, Rosalind has held music teaching positions in various schools including Director of Music within the private education sector. She has also been responsible for music teacher training at a tertiary level.",
+    "tagline": "Music Schools International Building musicians and developing young minds",
+    "services": [
+      "Our philosophy is simple:",
+      "PIANORAMA JUNIOR 4-6 years",
+      "PIANORAMA PRIMARY 7-10 years",
+      "ADVANCED COURSES",
+      "BARRINGTON YOUTH CHOIR 5-12 years",
+      "Find us on Facebook @msichristchurch"
+    ]
+  },
+  "before": {
+    "url": "http://www.msichristchurch.co.nz/",
+    "domain": "msichristchurch.co.nz",
+    "finalUrl": "http://www.msichristchurch.co.nz/",
+    "title": "Music Schools International Building musicians and developing young minds",
+    "pages": 9,
+    "score": 51,
+    "assessedAt": "2026-11-11T14:07:40.511Z",
+    "issues": [
+      {
+        "id": "no-https",
+        "title": "Not served over HTTPS",
+        "evidence": "Final URL is http://www.msichristchurch.co.nz/. Browsers label this site \"Not secure\"."
+      },
+      {
+        "id": "no-contact-path",
+        "title": "No easy way to get in touch",
+        "evidence": "No tap-to-call link and no enquiry form on the homepage."
+      },
+      {
+        "id": "stale-copyright",
+        "title": "Looks out of date",
+        "evidence": "Footer copyright reads 2016, 10 years ago."
+      }
+    ],
+    "screenshot": "screenshots/before-desktop.jpg"
+  },
+  "ours": {
+    "pagesUrl": "https://tova-studio.github.io/christchurch-music-schools-international/",
+    "repoUrl": "https://github.com/tova-studio/christchurch-music-schools-international",
+    "generator": "claude",
+    "screenshot": "screenshots/after-desktop.jpg",
+    "publishedAt": "2026-11-25T07:56:38.464Z"
+  }
+}
